@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=doDUihpj6ro
 
 ## 結果:
 ![image](https://user-images.githubusercontent.com/65394145/174432159-22ae01c4-6254-45bf-99dc-9cb006f1ec31.png)
-pip install tensorflow==2.4.1 tensorflow-gpu==2.4.1 opencv-python mediapipe sklearn matplotlib
-```
 
+
+## 下載對應模組
+```
+pip install tensorflow==2.4.1 tensorflow-gpu==2.4.1 opencv-python mediapipe sklearn matplotlib
